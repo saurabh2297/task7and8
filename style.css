@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+}
+.nav-link{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.fst{
+    margin-top:50px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+th,tr,td{
+    text-align:center;
+}
+.scnd{
+    background-color: grey;
+    margin-top:50px;
+    padding-bottom: 20px;
+    padding-top: 50px;   
+}
+h1{
+    text-align:center;
+    font-variant:small-caps;
+    color:green;
+    padding:25px;
+    margin-top:-25px;
+}
+button{
+    margin-left:45%;
+    margin-top:10px;
+}
